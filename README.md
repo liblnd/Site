@@ -16,6 +16,6 @@ We host multiple public gamemodes, like Towny.
 
 We strive to have a friendly and helpful community, welcoming new players.
 
-- Official Site: https://libertyland.xyz
-- Twitter: https://twitter.com/LibertyLandMC
+- Official Site: [Click Here](https://libertyland.xyz)
+- Twitter: [Click Here](https://twitter.com/LibertyLandMC)
 - Contact: [Email](mailto:support@libertyland.xyz)
