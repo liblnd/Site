@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# LIBLND
 
-You can use the [editor on GitHub](https://github.com/liblnd/Site/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Who we are
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We're a group of developers and gamers working on diverse projects. We come from all around the world, working and collaborating remotely.
 
-### Markdown
+## What do we do
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### [LibertyLand](https://libertyland.xyz)
 
-```markdown
-Syntax highlighted code block
+![LibertyLand](https://libertyland.xyz/img/logo.png)
 
-# Header 1
-## Header 2
-### Header 3
+Part of the next generation of Minecraft servers that is constantly evolving to fit the user's needs.
+Featuring Crossplay between Bedrock and Java Editions of the game, allowing players to join on their platform of preference.
+We host multiple public gamemodes, like Towny.
 
-- Bulleted
-- List
+We strive to have a friendly and helpful community, welcoming new players.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/liblnd/Site/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Official Site: https://libertyland.xyz
+- Twitter: https://twitter.com/LibertyLandMC
+- Contact: [Email](mailto:support@libertyland.xyz)
